@@ -15,9 +15,9 @@ with col2:
     )
 
 st.header('courses Offered')
-st.subheader("data science")
+st.subheader("data science and machine Learning")
 st.subheader("Data Analysis")
-st.subheader('Data Engineering')
+
 
 st.subheader("power bi")
 st.subheader('tablue')
