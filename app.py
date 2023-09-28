@@ -18,3 +18,6 @@ st.header('courses Offered')
 st.subheader("data science")
 st.subheader("Data Analysis")
 st.subheader('Data Engineering')
+
+st.subheader("power bi")
+st.subheader('tablue')
