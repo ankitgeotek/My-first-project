@@ -22,4 +22,4 @@ st.subheader("Data Analysis")
 st.subheader("power bi")
 st.subheader('tablue')
 
-st.sidebar
+st.subheader('DSA')
