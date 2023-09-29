@@ -23,3 +23,10 @@ st.subheader("power bi")
 st.subheader('tablue')
 
 st.sidebar.title("Menu")
+st.sidebar.markdown("""
+                    -Home
+
+                    -About
+                    
+                    -contact
+""")
