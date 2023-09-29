@@ -40,3 +40,6 @@ st.sidebar.button("select")
 
 st.sidebar.selectbox("Login as",["teacher", "student"])
 st.sidebar.button("login page")
+
+st.sidebar.selectbox("select course",["DSPM", "DSA"])
+st.sidebar.button("select")
