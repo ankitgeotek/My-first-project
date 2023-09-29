@@ -4,7 +4,11 @@ st.title("CampusX")
 col1, col2 =st.columns(2)
 
 with col1:
+<<<<<<< HEAD
     st.image("sample3.jpg")
+=======
+    st.title("Hi")
+>>>>>>> sidebar
 
 with col2:
     st.write(
