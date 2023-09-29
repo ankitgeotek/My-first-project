@@ -29,4 +29,8 @@ st.sidebar.markdown("""
                     -About
                     
                     -contact
+
+                    -Career 
+
+                    -Login
 """)
